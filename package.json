@@ -1,0 +1,25 @@
+{
+  "name": "re-call",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dist2":"build",
+    "dist":"tsc",
+    "dev":"tsc -watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq1988626/re-call.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq1988626/re-call/issues"
+  },
+  "homepage": "https://github.com/zq1988626/re-call#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
